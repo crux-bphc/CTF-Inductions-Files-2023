@@ -1,0 +1,80 @@
+Name: Bob Lee
+Age: 38
+Country: Canada
+Flag: M
+
+Name: Alice Smith
+Age: 24
+Country: South Korea
+Flag: V
+
+Name: Emily Davis
+Age: 25
+Country: USA
+Flag: 9
+
+Name: Bob Garcia
+Age: 26
+Country: South Korea
+Flag: M
+
+Name: Bob Miller
+Age: 38
+Country: South Korea
+Flag: M
+
+Name: Laura Taylor
+Age: 39
+Country: Canada
+Flag: H
+
+Name: Elizabeth Wilson
+Age: 36
+Country: Spain
+Flag: Y
+
+Name: Emily Smith
+Age: 22
+Country: Canada
+Flag: z
+
+Name: John Brown
+Age: 38
+Country: Spain
+Flag: X
+
+Name: Robert Davis
+Age: 36
+Country: Australia
+Flag: 0
+
+Name: Michael Brown
+Age: 36
+Country: United Kingdom
+Flag: N
+
+Name: Laura Brown
+Age: 28
+Country: South Korea
+Flag: 1
+
+Name: Sarah Taylor
+Age: 29
+Country: France
+Flag: W
+
+Name: James Wilson
+Age: 36
+Country: USA
+Flag: A
+
+Name: Alice Lee
+Age: 37
+Country: Spain
+Flag: =
+
+Name: Alice Smith
+Age: 34
+Country: Australia
+Flag: =
+
